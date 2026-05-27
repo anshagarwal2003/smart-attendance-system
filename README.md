@@ -40,3 +40,14 @@ Mr. Mohd. Tahir Irfan
 
 ## Note
 This project is developed for academic purposes.
+
+## Screenshots
+
+### Live Runtime
+![Live Runtime](screenshots/live_runtime_screen.png)
+
+### Bottom Panel
+![Bottom Panel](screenshots/bottom_panel.png)
+
+### Attendance Summary
+![Summary](screenshots/summary_sheet.png)
