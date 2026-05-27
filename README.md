@@ -30,17 +30,13 @@ A Python-based smart attendance system that automates classroom attendance using
 - `images/` → student images
 - `screenshots/` → project screenshots
 
-## How It Works
-1. Student images are stored in the images folder.
-2. `encode.py` generates face encodings.
-3. Teacher activates the class session.
-4. Students verify using live camera and blink detection.
-5. Attendance is stored in Excel and summary is generated.
-
 ## Team Members
 - Harshita Mangal
 - Ansh Agarwal
 - Darshan Singh
+
+## Guide
+Mr. Mohd. Tahir Irfan
 
 ## Note
 This project is developed for academic purposes.
